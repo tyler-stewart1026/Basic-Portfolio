@@ -78,7 +78,7 @@ a:active {
 .about {
     width: 960px;
     margin: auto;
-    margin-left: 200px;
+    /*margin-left: 200px;*/
     padding: 10px;
     border: 1px solid #cccccc;
     background-color: #ffffff;
@@ -124,23 +124,25 @@ footer {
 .portfolio-body {
     width: 960px;
     height: 450px;
-    margin-left: 200px;
+    /*margin-left: 200px;*/
     background-color: #ffffff;
     border: 1px solid #cccccc;
     position: relative;
     padding: 10px;
     margin-bottom: 100px;
+    margin: auto;
 }
 
 .contact-body {
     width: 960px;
     height: 455px;
-    margin-left: 200px;
+    /*margin-left: 200px;*/
     background-color: #ffffff;
     border: 1px solid #cccccc;
     position: relative;
     padding: 10px;
     margin-bottom: 100px;
+    margin: auto;
 }
 
 .picture1 p{
